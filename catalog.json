@@ -16,7 +16,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/min-max-purchase.md",
     "last_updated": "2026-11-10",
     "source_folder": "min-max",
-    "planned_code_repo": "howtowp/min-max-purchase",
+    "code_repo": "howtowp/min-max-purchase",
+    "status": "released",
     "text_domain": "min-max-purchase",
     "slug_note": "From main file min-max-purchase.php and text domain min-max-purchase (folder was min-max)."
   },
@@ -37,7 +38,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/notifyme-wc.md",
     "last_updated": "2026-11-10",
     "source_folder": "NOTIFYME",
-    "planned_code_repo": "howtowp/notifyme-wc",
+    "code_repo": "howtowp/notifyme-wc",
+    "status": "released",
     "text_domain": "notifyme-wc",
     "slug_note": "From main file notifyme-wc.php and text domain notifyme-wc (folder was NOTIFYME)."
   },
@@ -58,7 +60,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/omde-forosh.md",
     "last_updated": "2026-11-10",
     "source_folder": "omde forosh",
-    "planned_code_repo": "howtowp/omde-forosh",
+    "code_repo": "howtowp/omde-forosh",
+    "status": "released",
     "text_domain": "pro-b2b",
     "slug_note": "From main file omde-forosh.php. Text domain is pro-b2b (legacy); folder was 'omde forosh' with a space."
   },
@@ -79,7 +82,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/party-booking.md",
     "last_updated": "2026-11-10",
     "source_folder": "event-bookin",
-    "planned_code_repo": "howtowp/party-booking",
+    "code_repo": "howtowp/party-booking",
+    "status": "released",
     "text_domain": "party-booking",
     "slug_note": "From main file party-booking.php and text domain party-booking (folder typo was event-bookin)."
   },
@@ -100,7 +104,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-manager-pro.md",
     "last_updated": "2026-11-10",
     "source_folder": "woomanger",
-    "planned_code_repo": "howtowp/wc-manager-pro",
+    "code_repo": "howtowp/wc-manager-pro",
+    "status": "released",
     "text_domain": "wc-manager-pro",
     "slug_note": "From main file wc-manager-pro.php and text domain wc-manager-pro. Folder typo was woomanger. Product name is Winja."
   },
@@ -121,7 +126,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wooboti.md",
     "last_updated": "2026-11-10",
     "source_folder": "‍customer-bot",
-    "planned_code_repo": "howtowp/wooboti",
+    "code_repo": "howtowp/wooboti",
+    "status": "released",
     "text_domain": "mybot",
     "slug_note": "From the Plugin Name brand wooboti. Text domain and main file are mybot; folder had a leading U+200D before customer-bot."
   },
@@ -142,7 +148,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/woo-sync.md",
     "last_updated": "2026-11-10",
     "source_folder": "woosync",
-    "planned_code_repo": "howtowp/woo-sync",
+    "code_repo": "howtowp/woo-sync",
+    "status": "released",
     "text_domain": "woo-sync",
     "slug_note": "From plugin folder and text domain woo-sync (parent folder was woosync)."
   },
@@ -163,7 +170,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/estekhdamoo.md",
     "last_updated": "2026-11-10",
     "source_folder": "estekhdamoo",
-    "planned_code_repo": "howtowp/estekhdamoo",
+    "code_repo": "howtowp/estekhdamoo",
+    "status": "released",
     "text_domain": "estekhdamoo",
     "slug_note": "Matches folder, main file, and text domain."
   },
@@ -184,7 +192,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/mellat-payment-gateway.md",
     "last_updated": "2026-11-10",
     "source_folder": "mellat",
-    "planned_code_repo": "howtowp/mellat-payment-gateway",
+    "code_repo": "howtowp/mellat-payment-gateway",
+    "status": "released",
     "text_domain": "mellat-payment-gateway",
     "slug_note": "From plugin folder, main file, and text domain (parent folder was mellat)."
   },
@@ -205,7 +214,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-smart-shipping.md",
     "last_updated": "2026-11-10",
     "source_folder": "advance-shipment",
-    "planned_code_repo": "howtowp/wc-smart-shipping",
+    "code_repo": "howtowp/wc-smart-shipping",
+    "status": "released",
     "text_domain": "wc-smart-shipping",
     "slug_note": "From plugin folder, main file, and text domain. Folder was advance-shipment. Product name is SHiprule Pro."
   },
@@ -226,7 +236,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-gateway-card-to-card-ir.md",
     "last_updated": "2026-11-10",
     "source_folder": "card-to-card",
-    "planned_code_repo": "howtowp/wc-gateway-card-to-card-ir",
+    "code_repo": "howtowp/wc-gateway-card-to-card-ir",
+    "status": "released",
     "text_domain": "wc-gateway-card-to-card-ir",
     "slug_note": "From main file and text domain (folder was card-to-card)."
   },
@@ -247,7 +258,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-iranian-smart-gateways.md",
     "last_updated": "2026-11-10",
     "source_folder": "wc-iranian-smart-gateways",
-    "planned_code_repo": "howtowp/wc-iranian-smart-gateways",
+    "code_repo": "howtowp/wc-iranian-smart-gateways",
+    "status": "released",
     "text_domain": "wc-smart-iranian-gateways",
     "slug_note": "Matches folder and main file. Text domain is wc-smart-iranian-gateways."
   },
@@ -268,7 +280,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/johar.md",
     "last_updated": "2026-11-10",
     "source_folder": "johar",
-    "planned_code_repo": "howtowp/johar",
+    "code_repo": "howtowp/johar",
+    "status": "released",
     "text_domain": "johar",
     "slug_note": "Matches folder and text domain."
   },
@@ -289,7 +302,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/waqtnama.md",
     "last_updated": "2026-11-10",
     "source_folder": "deliveryg",
-    "planned_code_repo": "howtowp/waqtnama",
+    "code_repo": "howtowp/waqtnama",
+    "status": "released",
     "text_domain": "waqtnama",
     "slug_note": "From plugin folder, main file, and text domain (folder typo was deliveryg)."
   },
@@ -310,7 +324,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/ahrefs-fixer.md",
     "last_updated": "2026-11-10",
     "source_folder": "garwin-fixer",
-    "planned_code_repo": "howtowp/ahrefs-fixer",
+    "code_repo": "howtowp/ahrefs-fixer",
+    "status": "released",
     "slug_note": "From main file ahrefs-fixer.php (folder was garwin-fixer)."
   },
   {
@@ -330,7 +345,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/dr-404.md",
     "last_updated": "2026-11-10",
     "source_folder": "dr-404",
-    "planned_code_repo": "howtowp/dr-404",
+    "code_repo": "howtowp/dr-404",
+    "status": "released",
     "text_domain": "dr-404",
     "slug_note": "Matches folder, main file, and text domain."
   },
@@ -351,7 +367,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/dr-debug.md",
     "last_updated": "2026-11-10",
     "source_folder": "Log",
-    "planned_code_repo": "howtowp/dr-debug",
+    "code_repo": "howtowp/dr-debug",
+    "status": "released",
     "text_domain": "dr-debug",
     "slug_note": "From plugin folder, main file, and text domain (parent folder was Log)."
   },
@@ -372,7 +389,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/drdebug-syncer.md",
     "last_updated": "2026-11-10",
     "source_folder": "drdebug-syncer",
-    "planned_code_repo": "howtowp/drdebug-syncer",
+    "code_repo": "howtowp/drdebug-syncer",
+    "status": "released",
     "text_domain": "drdebug-syncer",
     "slug_note": "Matches folder, main file, and text domain."
   },
@@ -393,7 +411,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/neuralpress.md",
     "last_updated": "2026-11-10",
     "source_folder": "hoshmand",
-    "planned_code_repo": "howtowp/neuralpress",
+    "code_repo": "howtowp/neuralpress",
+    "status": "released",
     "text_domain": "neuralpress",
     "slug_note": "From plugin folder, main file, and text domain (folder was hoshmand)."
   },
@@ -414,7 +433,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/tagmanger.md",
     "last_updated": "2026-11-10",
     "source_folder": "tagmanger",
-    "planned_code_repo": "howtowp/tagmanger",
+    "code_repo": "howtowp/tagmanger",
+    "status": "released",
     "text_domain": "tagmanger",
     "slug_note": "Official plugin filename, text domain, and Plugin Name spelling (folder was already tagmanger)."
   },
@@ -435,7 +455,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/cardquest.md",
     "last_updated": "2026-11-10",
     "source_folder": "card-quest",
-    "planned_code_repo": "howtowp/cardquest",
+    "code_repo": "howtowp/cardquest",
+    "status": "released",
     "text_domain": "cardquest",
     "slug_note": "From main file cardquest.php and text domain cardquest (folder was card-quest)."
   },
@@ -456,7 +477,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/loyalty-plus.md",
     "last_updated": "2026-11-10",
     "source_folder": "loyality",
-    "planned_code_repo": "howtowp/loyalty-plus",
+    "code_repo": "howtowp/loyalty-plus",
+    "status": "released",
     "text_domain": "loyalty-plus",
     "slug_note": "From plugin folder, main file, and text domain (folder typo was loyality)."
   },
@@ -477,7 +499,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/pado.md",
     "last_updated": "2026-11-10",
     "source_folder": "pado",
-    "planned_code_repo": "howtowp/pado",
+    "code_repo": "howtowp/pado",
+    "status": "released",
     "text_domain": "wp-bale-telegram-auto-post",
     "slug_note": "Product name پادو / Pado. Main file and text domain are still wp-bale-telegram-auto-post."
   },
@@ -498,7 +521,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/smart-manager.md",
     "last_updated": "2026-11-10",
     "source_folder": "smart-manager",
-    "planned_code_repo": "howtowp/smart-manager",
+    "code_repo": "howtowp/smart-manager",
+    "status": "released",
     "text_domain": "smart-manager",
     "slug_note": "Matches folder, main file, and text domain."
   },
@@ -519,7 +543,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/jazebe.md",
     "last_updated": "2026-11-10",
     "source_folder": "jazebe",
-    "planned_code_repo": "howtowp/jazebe",
+    "code_repo": "howtowp/jazebe",
+    "status": "released",
     "text_domain": "jazebe",
     "slug_note": "Matches folder, main file, and text domain."
   },
@@ -540,7 +565,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/file-monitor.md",
     "last_updated": "2026-11-10",
     "source_folder": "monitor-plugin",
-    "planned_code_repo": "howtowp/file-monitor",
+    "code_repo": "howtowp/file-monitor",
+    "status": "released",
     "text_domain": "file-monitor",
     "slug_note": "From text domain file-monitor (folder and main file were monitor-plugin)."
   },
@@ -561,7 +587,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/securityu-plusgin.md",
     "last_updated": "2026-11-10",
     "source_folder": "secuirtyu-plusgin",
-    "planned_code_repo": "howtowp/securityu-plusgin",
+    "code_repo": "howtowp/securityu-plusgin",
+    "status": "released",
     "text_domain": "securityu-plusgin",
     "slug_note": "From text domain securityu-plusgin, correcting the folder typo secuirtyu-plusgin. Main file is wp-securityu-plusgin.php."
   },
@@ -582,9 +609,10 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/themes/howtowp.md",
     "last_updated": "2026-11-10",
     "source_folder": "howtowp",
-    "planned_code_repo": "howtowp/theme-howtowp",
+    "code_repo": "howtowp/theme-howtowp",
+    "status": "released",
     "text_domain": "howtowp",
-    "slug_note": "Theme text domain and directory name. Private code repo will be howtowp/theme-howtowp."
+    "slug_note": "Theme text domain and directory name. Private code repo is howtowp/theme-howtowp."
   },
   {
     "slug": "howtowp-core",
@@ -603,7 +631,8 @@
     "catalog_page": "https://github.com/howtowp/howtowp-catalog/blob/main/plugins/howtowp-core.md",
     "last_updated": "2026-11-10",
     "source_folder": "howtowp-core",
-    "planned_code_repo": "howtowp/howtowp-core",
+    "code_repo": "howtowp/howtowp-core",
+    "status": "released",
     "text_domain": "howtowp-core",
     "slug_note": "Matches folder, main file, and text domain."
   }
