@@ -1,0 +1,52 @@
+# How to WP Catalog
+
+> Public catalog of open-source, license-free WordPress plugins and themes from How to WP (چطور پرس). The collection currently includes 28 plugins and 1 theme. Source code repositories are private. Access is through a monthly club subscription at https://howtowp.ir. This repository describes products only and does not contain plugin or theme source.
+
+How to WP is a subscription, priced like a single plugin, that unlocks the collection without a license lock or domain cap. Use catalog.json for structured metadata (slug, name, type, category, version, descriptions, requirements). Use the per-product markdown pages for features and access information. After each product release, catalog.json, the product page, and this file should be updated together. See STRUCTURE.md for the repo and versioning standard.
+
+## Catalog
+
+- [catalog.json](https://raw.githubusercontent.com/howtowp/howtowp-catalog/main/catalog.json): Machine-readable list of all products (slug, name, type, category, version, bilingual descriptions, requirements, links)
+- [README](https://github.com/howtowp/howtowp-catalog/blob/main/README.md): Human-readable bilingual catalog index
+- [STRUCTURE.md](https://github.com/howtowp/howtowp-catalog/blob/main/STRUCTURE.md): Standard for public and private repositories, layout, SemVer, releases, and catalog updates
+
+## Plugins
+
+- [Min Max Purchase Control](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/min-max-purchase.md): Minimum and maximum purchase quantities and purchase increments for WooCommerce products, with per-user and default settings
+- [NotifyMe - اطلاع از موجودی ووکامرس](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/notifyme-wc.md): A back-in-stock button for out-of-stock WooCommerce products, with notifications via Bale, Telegram, and SMS (proxy and reCAPTCHA supported)
+- [omde foroosh](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/omde-forosh.md): A B2B plugin for WooCommerce with flexible pricing, credit management, and a dedicated dashboard
+- [Party Booking](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/party-booking.md): Configurable multi-step party booking wizard with Stripe Checkout
+- [Winja](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-manager-pro.md): Centralized product, inventory, and order management for WooCommerce with RTL admin, Jalali dates, and Telegram/Bale bot
+- [wooboti for WooCommerce (Telegram + Bale)](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wooboti.md): Sell on Telegram and Bale using WooCommerce orders, payments, and notifications
+- [WooSync](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/woo-sync.md): Peer-to-peer content and product sync across multiple WooCommerce sites with manual conflict resolution
+- [استخدامو (Estekhdamoo)](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/estekhdamoo.md): Hiring and job-opportunity management: create listings, collect applications, advanced filters, and a reports dashboard with charts
+- [Behpardakht Mellat for WooCommerce](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/mellat-payment-gateway.md): Bank Mellat (Behpardakht) IPG gateway with financial correctness first: verify/settle, reconciliation, locks, HPOS and Checkout Blocks
+- [SHiprule Pro](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-smart-shipping.md): Smart WooCommerce shipping with a rule engine, carrier integration, and support for Iranian couriers
+- [WooCommerce Gateway Card To Card IR](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-gateway-card-to-card-ir.md): A card-to-card payment gateway for WooCommerce (Iran Shetab network) with a custom payment page, card listing, and receipt upload
+- [WooCommerce Smart Iranian Gateways](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/wc-iranian-smart-gateways.md): Manages and auto-switches Iranian payment gateways (Mellat, Saman, Sadad, ZarinPal, and others) by amount, user role, and category, with a reverse proxy to work around blocked servers
+- [جوهر (Johar)](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/johar.md): Payment-link and invoice management for Iranian sellers
+- [وقت‌نما — زمانبندی تحویل و خدمات ووکامرس](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/waqtnama.md): WooCommerce delivery and service scheduling: service types, technicians, time slots, geography, and checkout
+- [Ahrefs Fixer](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/ahrefs-fixer.md): Import Ahrefs Site Audit ZIP exports and apply guided fixes with backup, logging, and rollback
+- [Dr 404](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/dr-404.md): Professional 404-page templates and maintenance mode for WordPress, enabled in one click
+- [Dr. Debug - Smart Error Log Viewer](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/dr-debug.md): Smart error log viewer for WordPress with fingerprint-based grouping, secret redaction, and a modern dashboard
+- [DrDebug Syncer](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/drdebug-syncer.md): Offload WordPress media (images, video, audio, and documents) to cloud storage. ParsPack S3-compatible provider with extensible architecture
+- [NeuralPress](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/neuralpress.md): Prepare your WordPress site for AI engines — GEO/AEO signals, crawler control, and verified bot analytics
+- [TagManger](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/tagmanger.md): Full conversion tracking for lead-gen WordPress sites — forms, phone, email, and messengers to GA4
+- [CardQuest for WooCommerce](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/cardquest.md): Gamification for WooCommerce stores — every interaction earns a card; complete sets for rewards
+- [LoyaltyPlus](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/loyalty-plus.md): WooCommerce loyalty, tasks, referral, spin, and leaderboards
+- [پادو](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/pado.md): Auto-publish posts and products to Telegram and Bale channels, with advanced settings, smart buttons, and scheduling
+- [Smart Manager](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/smart-manager.md): Manage WordPress through Telegram and Bale bots, with notifications, content and product management, and AI integration
+- [جاذبه — Jazebe Form Builder](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/jazebe.md): A professional WordPress form builder for the Iranian market
+- [File Monitor](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/file-monitor.md): A modular plugin for monitoring file changes, with logging and Telegram notifications
+- [SecurityU+ Plugin](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/securityu-plusgin.md): Security platform core with Telegram, Bale, and email notifications
+- [HowToWP Core](https://github.com/howtowp/howtowp-catalog/blob/main/plugins/howtowp-core.md): Club membership, product Q&A, and feature requests for the HowToWP store
+
+## Themes
+
+- [HowToWP](https://github.com/howtowp/howtowp-catalog/blob/main/themes/howtowp.md): HowToWP theme and plugin store theme, with WooCommerce support and a custom single-product page
+
+## Optional
+
+- [How to WP website](https://howtowp.ir): Club subscription, downloads, and individual purchases
+- [How to WP GitHub profile](https://github.com/howtowp): Public profile README
+- [catalog.json on GitHub](https://github.com/howtowp/howtowp-catalog/blob/main/catalog.json): Same catalog file, browsable on GitHub

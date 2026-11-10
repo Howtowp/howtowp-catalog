@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.zip
+*.tar.gz
+*.rar
+node_modules/
+vendor/
+*.bak
+*.sql
