@@ -14,6 +14,7 @@ Standard for How to WP repositories, versioning, and catalog updates.
 | --- | --- | --- |
 | [`howtowp/howtowp`](https://github.com/howtowp/howtowp) | عمومی | README پروفایل گیت‌هاب |
 | [`howtowp/howtowp-catalog`](https://github.com/howtowp/howtowp-catalog) | عمومی | کاتالوگ محصولات، `catalog.json`، صفحات معرفی و `llms.txt` |
+| [`howtowp/plugin-template`](https://github.com/howtowp/plugin-template) | عمومی (قالب) | قالب استاندارد ساخت افزونه‌ی جدید («Use this template»؛ ساختار پروژه + `scripts/init.sh`) |
 | `howtowp/<slug>` | خصوصی | کد هر افزونه؛ `<slug>` همان شناسهٔ تمیز محصول در این کاتالوگ است |
 | `howtowp/theme-<slug>` | خصوصی | کد هر قالب |
 | `howtowp/scripts` | خصوصی (بعداً) | اسکریپت‌ها و ابزارهای کمکی |
@@ -36,6 +37,8 @@ Standard for How to WP repositories, versioning, and catalog updates.
 ├── LICENSE             # GPL-2.0
 └── .gitignore
 ```
+
+اگر پروژه علاوه بر افزونه، مستندات، دیتا، طراحی، تحقیق یا اسکریپت هم دارد، از **چیدمان پروژه** استفاده می‌کنیم: افزونه در یک زیرپوشه (`<slug>/`) است و بقیه کنارش می‌ماند و وارد zip نمی‌شود (`plugin_dir` در `.release.yml`). جزئیات و قالب آماده: [howtowp/plugin-template](https://github.com/howtowp/plugin-template) و [مستند workflow ریلیز](https://github.com/howtowp/.github/blob/main/docs/wordpress-release.md#repository-layouts).
 
 قالب‌ها همین روح را دارند (مثلاً `style.css` به‌جای `<slug>.php`) و نام ریپو `howtowp/theme-<slug>` است.
 
